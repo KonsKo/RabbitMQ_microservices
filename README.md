@@ -7,4 +7,4 @@ Example of one full microservice: https://github.com/KonsKo/RabbitMQ_microservic
 
 Broker: RabbitMQ
 
-Purpose of microservice architectire: remote controlling for Windows machines and analizing windows logs.   
+Purpose of microservice architectire: remote controlling for Windows machines and analizing logs.   
